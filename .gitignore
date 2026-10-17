@@ -1,0 +1,7 @@
+.venv-test/
+htmlcov/
+__pycache__/
+.pytest_cache/
+dist/
+build/
+*.spec
